@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-register {
+    width: 400px;
+    background-color: #dfdbdb;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family:'Times New Roman';
+    color: rgb(14, 135, 156);
+}
+
+.form-register h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+    color: rgb(14, 135, 156);
+}
+
+.controls{
+    width: 100%;
+    padding: 3px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid;
+    font-family: 'Times new roman';
+    font-size: 18px;
+    color: rgb(14, 135, 156);
+}
+
+.form-register p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+}
+
+.form-register a:hover {
+color: rgb(3, 21, 24);
+text-decoration: underline;
+}
+
+.form-register .buttom{
+    width: 100%;
+    border: none;
+    padding: 12px;
+    color: rgb(13, 106, 122);
+    margin: 16px 0;
+    font-size: 16px;
+}
